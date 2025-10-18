@@ -11,8 +11,8 @@
 <br><br>
  
 - :school: Soy `Ingeniero Industrial`.
-- :technologist: Me encanta usar el software como solución a cualquiery `Problema`.
-- :student: Actualmente estoy estudiando  Ingeniería de Software. `Ingeniería de Software`.
-- :nerd_face: Siempre  `estoy aprendiendo cosas nuevas`.
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :technologist: Me encanta usar el software como solución a cualquier `Problema`.
+- :student: Actualmente estoy estudiando `Ingeniería de Software`.
+- :nerd_face: Siempre `estoy aprendiendo cosas nuevas`.
+- :boom: Puedes visitarme en YouTube [CANAL](https://www.youtube.com/@soyrec).
 <br>
