@@ -12,7 +12,6 @@
  
 - :school: Soy `Ingeniero Industrial`.
 - :technologist: Me encanta usar el software como solución a cualquier `Problema`.
-- :student: Actualmente estoy estudiando `Ingeniería de Software`.
 - :nerd_face: Siempre `estoy aprendiendo cosas nuevas`.
 - :boom: Puedes visitarme en YouTube [CANAL](https://www.youtube.com/@soyrec).
 <br>
